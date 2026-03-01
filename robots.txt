@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://indiarisingvoice.github.io/sitemap.xmlUser-agent: *
+Allow: /
+
 Sitemap: https://indiarisingvoice.github.io/sitemap.xml
+Sitemap: https://indiarisingvoice.github.io/sitemap.xml/
