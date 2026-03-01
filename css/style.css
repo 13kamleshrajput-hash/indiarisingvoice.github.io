@@ -212,3 +212,17 @@ nav a:hover {
   padding: 0 20px;
 }
 
+/* Article Layout Refinement */
+.article-content {
+  max-width: 800px;
+  margin: 80px auto;
+  padding: 0 20px;
+}
+
+.article-content h2 {
+  margin-top: 40px;
+}
+
+.article-content p {
+  margin-bottom: 18px;
+}
