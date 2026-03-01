@@ -256,5 +256,9 @@ header h1 {
   margin: auto;
 }
 
+/* Strategic Signals */
+section p {
+  line-height: 1.7;
+}
 
 
