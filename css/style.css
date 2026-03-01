@@ -261,4 +261,7 @@ section p {
   line-height: 1.7;
 }
 
+nav a.active {
+  color: #ff9933;
+}
 
