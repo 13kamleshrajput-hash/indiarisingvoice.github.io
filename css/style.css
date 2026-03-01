@@ -226,3 +226,12 @@ nav a:hover {
 .article-content p {
   margin-bottom: 18px;
 }
+
+section {
+  border-top: 1px solid #1a1a1a;
+}
+
+.hero {
+  border-top: none;
+}
+
