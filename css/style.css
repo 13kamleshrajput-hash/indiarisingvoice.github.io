@@ -235,3 +235,14 @@ section {
   border-top: none;
 }
 
+header {
+  padding: 20px;
+  border-bottom: 1px solid #1a1a1a;
+  text-align: center;
+}
+
+header h1 {
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+
