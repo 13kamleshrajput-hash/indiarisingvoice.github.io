@@ -246,3 +246,15 @@ header h1 {
   font-size: 24px;
 }
 
+.hero h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  max-width: 700px;
+  margin: auto;
+}
+
+
+
