@@ -11,6 +11,8 @@ body {
   background: #0d0d0d;
   color: #ffffff;
   line-height: 1.8;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 /* HEADER */
