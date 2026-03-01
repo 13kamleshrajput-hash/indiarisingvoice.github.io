@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://indiarisingvoice.github.io/sitemap.xml
